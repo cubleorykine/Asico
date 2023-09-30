@@ -7,6 +7,6 @@ int = {
 	cppBuild.using('dxf')
 }
 
-cppBuild.cout('cout << Hello World!')
+cppBuild.cout('cout << Hello World! dxf::endl')
 
 -- this language still on edit
